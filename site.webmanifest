@@ -8,9 +8,9 @@
   "lang": "es",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/favicon.ppm",
+      "sizes": "96x96",
+      "type": "image/x-portable-pixmap",
       "purpose": "any maskable"
     }
   ]
