@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eviraliaoficial-es.github.io/sitemap.xml

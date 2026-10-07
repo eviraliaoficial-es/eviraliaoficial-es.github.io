@@ -1,0 +1,17 @@
+{
+  "name": "Eviralia | Invitaciones digitales personalizadas",
+  "short_name": "Eviralia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf6f2",
+  "theme_color": "#493532",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
